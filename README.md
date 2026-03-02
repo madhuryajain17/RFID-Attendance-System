@@ -13,17 +13,17 @@ This project is an IoT-based smart attendance system designed to automate attend
 - Arduino IDE
 
 ## 🔄 Working
-1. User scans RFID or fingerprint
-2. ESP32 processes authentication
-3. Attendance stored in MySQL database
-4. SMS notification sent via GSM
-5. Admin can view records through web interface
+1. User scans RFID or fingerprint.
+2. ESP32 processes authentication.
+3. Attendance stored in MySQL database.
+4. SMS notification sent via GSM.
+5. Admin can view records through web interface.
 
  ## Features
-- Automated attendance recording
-- Real-time monitoring
-- Reduces manual errors
-- Improves accuracy and efficiency  
+- Automated attendance recording.
+- Real-time monitoring.
+- Reduces manual errors.
+- Improves accuracy and efficiency. 
 
 ## 🎯 Objective
 To reduce manual attendance errors and provide a secure, automated attendance solution.
