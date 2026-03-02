@@ -19,6 +19,12 @@ This project is an IoT-based smart attendance system designed to automate attend
 4. SMS notification sent via GSM
 5. Admin can view records through web interface
 
+ ## Features
+- Automated attendance recording
+- Real-time monitoring
+- Reduces manual errors
+- Improves accuracy and efficiency  
+
 ## 🎯 Objective
 To reduce manual attendance errors and provide a secure, automated attendance solution.
 
